@@ -1,0 +1,5 @@
+*.ipa
+*.pch
+*.xcodeproj
+build/
+Shoosh dist resources
